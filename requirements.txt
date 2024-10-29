@@ -1,0 +1,5 @@
+Pillow
+numpy
+scikit-learn
+matplotlib
+openai  # For AI image generation (e.g., using DALL-E or similar models)
